@@ -1,5 +1,8 @@
 /* ticksy dark mode CSS v1.0 by Adarsh Pawar */
 
+header#header nav span.dropdown .tickets-dropdown-loader a:hover{
+  background-color: #00000070;
+}
 #articles-list > article > h3, .ticksy-page-panel > article > h3{
   background-color: #fafafa14;
 }
