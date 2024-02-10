@@ -6,4 +6,5 @@ Stylebot extension: https://chromewebstore.google.com/detail/stylebot/oiaejidbmk
 
 ![image](https://github.com/axmusic/ticksy-dark-mode/assets/37789021/45ce224f-7d08-4bb0-803d-c33101bd3917)
 ![image](https://github.com/axmusic/ticksy-dark-mode/assets/37789021/7597e059-4178-4180-86f3-3bf10ccfbd54)
-![image](https://github.com/axmusic/ticksy-dark-mode/assets/37789021/09d2711a-f1b9-4aad-8929-683e8587f522)
+![image](https://github.com/axmusic/ticksy-dark-mode/assets/37789021/f68c1804-c65f-4f4e-9fe2-72e1613ad502)
+
