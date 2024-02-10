@@ -1,5 +1,17 @@
 /* ticksy dark mode CSS v1.0 by Adarsh Pawar */
 
+#articles-list > article > h3, .ticksy-page-panel > article > h3{
+  background-color: #fafafa14;
+}
+#articles-list article.full-width p.stale-tickets-message{
+  background-color: #fff0;
+}
+/* .action-bar a{
+  border-color: #fff;
+}
+.action-bar.active a{
+  border-color: transparent;
+} */
 #sidebar-block .sidebar-block-title{
   border-bottom: 1px solid #e5e5e57a;
 }
@@ -185,9 +197,3 @@ header#header.admin, header#mobile-header.admin{
 a:hover{
   color: #8c82b1;
 }
-/* .action-bar a{
-  border-color: #fff;
-}
-.action-bar.active a{
-  border-color: transparent;
-} */
