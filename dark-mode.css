@@ -1,0 +1,193 @@
+/* ticksy dark mode CSS v1.0 by Adarsh Pawar */
+
+#sidebar-block .sidebar-block-title{
+  border-bottom: 1px solid #e5e5e57a;
+}
+.ticksy-custom-select .ticksy-custom-select-list .ticksy-custom-select-option.is-selected{
+  background: #6791b554;
+}
+.ticksy-custom-select .ticksy-custom-select-list .ticksy-custom-select-option:hover{
+  background: #6791b554;
+}
+span{
+    color: #c7c7c7;
+}
+.ticksy-custom-select.active .ticksy-custom-select-default-text{
+  color: #c7c7c7;
+}
+.ticksy-custom-select.active .ticksy-custom-select-list{
+  background-color: #1a1c1e;
+}
+header#header nav span.dropdown .tickets-dropdown-loader .tickets-dropdown-time-heading{
+  border-top: 1px solid #e5e5e575;
+  border-bottom: 1px solid #e5e5e575;
+}
+header#header nav span.dropdown .tickets-dropdown-time-wrapper .tickets-dropdown-tickets a:first-child{
+  border-top: none;
+}
+header#header nav span.dropdown .tickets-dropdown-loader a{
+  border-top: 1px solid #e5e5e557;
+}
+header#header nav .tickets .dropdown b{
+  color: #ebebeb;
+}
+header#header nav span.dropdown a{
+  color: #c7c7c7;
+}
+header#header nav span.dropdown{
+  background-color: #1b1e25;
+  box-shadow: 0px 10px 30px 0px rgb(81 81 81 / 28%) !important;
+  border: 2px solid #373737 !important
+}
+.dropdown::-webkit-scrollbar-track {
+  background-color: #1a1c1e;
+}
+.dropdown::-webkit-scrollbar {
+  width: 5px;
+}
+.dropdown::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #607285d1;
+}
+.dropdown::-webkit-scrollbar-thumb {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+.page-content{
+  background-color: #0e0f12;
+}
+.redactor-layer, .redactor-box{
+  background: #0e0f12;
+}
+.type-comment.user{
+  background-color: #1a1c1e;
+}
+.cf.type-comment.employee{
+  background-color: #1d1f2585;
+}
+body{
+  background-color: #1b1e25;
+  color: #c3c3c3;
+}
+#single-article{
+  color: #c7c7c7;
+  background-color:#1b1e25;
+}
+.comment-from .name{
+  color: #e3e3e3;
+}
+#ticket-title{
+  color: #e3e3e3;
+}
+.action-bar{
+  background-color: #0e0f12;
+}
+ul.comment-list > li .left, ul.comment-list > li .right, .action-bar{
+  border-color:#ffffff37;
+}
+.ticket-list a.ticket, .ticket-list .tickets-list-time-wrapper a.ticket:last-child{
+  border-color:#ffffff27;
+}
+.ticket-list .tickets-list-time-heading{
+  border-color:#ffffff67;
+}
+#sidebar-block{
+  background: #1a1c1e;
+}
+.ticket-info-block{
+  background-color: #1a1c1e;
+}
+.sidebar-block-title{
+  background-color: #ffffff0d;
+}
+#sidebar-block .sidebar-block-title{
+  color: #d5d5d5;
+}
+.action-bar a.button, .action-bar a.reply, .action-bar a.note, .action-bar a.customer-notes{
+  background: #2c3243;
+  color: #ebebeb;
+}
+.ticksy-page-panel > article {
+  background-color: #0e0f12;
+}
+div.reply-box{
+  background: #7b6c6c00;
+}
+.redactor-toolbar{
+    -webkit-filter: invert(100%) contrast(90%);
+    filter: invert(100%) contrast(90%);
+}
+.redactor-layer{
+  color: #c7c7c7;
+}
+div.note-box, #customer-notes{
+  background:#c9bc241c;
+}
+#customer_notes_form{
+  background: #fffbe800;
+}
+#ticket_tags{
+  background-color: #0e0f12;
+}
+.chosen-container-multi .chosen-choices{
+  background-color: #0e0f12;
+  background-image: none;
+}
+.chosen-container-active .chosen-choices li.search-field input[type="text"]{
+  color: #b3b3b3;
+}
+/*
+header#header nav span.dropdown{
+  background-color: #0e0f12;
+   box-shadow: 0px 10px 30px 0px rgb(0 0 0 / 26%); 
+}
+*/
+header#header.admin, header#mobile-header.admin{
+  background-color: #1b1e25;
+  border-bottom: 1px solid #ffffff33;
+}
+.ticket-list a.ticket span.description{
+  color: #c7c7c7;
+}
+.ticket-list a.ticket.response-needed span.ticket-title{
+  color: #c7c7c7;
+}
+
+.ticket-list a.ticket span.ticket-customer{
+  color: #e3e3e3;
+}
+.ticket-list a.ticket:hover{
+  background-color: #fbfbfb24;
+}
+.ticket-list a.ticket:hover span.ticket-right{
+  background-color: #fbfbfb24;
+}
+#articles-list article{
+  background-color: #1a1c1e;
+}
+.no-priority .ticket-list .tickets-list-time-heading{
+  background: #f9f9f91f;
+}
+#articles-list article ul#pagination{
+  background: #f9f9f917;
+}
+.checkmark{
+  background-color: #ffffff0d;
+}
+.ticket-list a.ticket span.ticket-title{
+  color: #b3b3b3;
+}
+.ticksy-custom-select{
+  background: #1d1f25;
+}
+.ticksy-custom-select-default-text .ticksy-custom-select-option-name{
+  color: #cbcbcb;
+}
+a:hover{
+  color: #8c82b1;
+}
+/* .action-bar a{
+  border-color: #fff;
+}
+.action-bar.active a{
+  border-color: transparent;
+} */
