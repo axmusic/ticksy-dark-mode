@@ -1,5 +1,27 @@
-/* ticksy dark mode CSS v1.0 by Adarsh Pawar */
-
+header#header nav span.notifications span.dropdown{
+  padding:0;
+}
+header#header nav span.notifications span.dropdown a.marked-read-1:hover{
+  background: #f9f9f917;
+}
+.tc-tabs .tab{
+  background: #fff0;
+}
+.tc-tabs .tab.active{
+  background: #ffffff38;
+}
+.tc-tabs .tab.unread{
+  color: #d9d9d9;
+}
+#tc-notifications_pencil-tab .tc-tabs .tab{
+      background: #ffab1217;
+}
+header#header nav span.notifications span.dropdown a{
+  border-bottom: 1px solid #e5e5e530
+}
+.ticket-list .tickets-list-time-heading{
+  background-color: #f9f9f91f;
+}
 header#header nav span.dropdown .tickets-dropdown-loader a:hover{
   background-color: #00000070;
 }
